@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and basketball
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on e-mail
-- 📫 How to reach me ...
+- 📫 How to reach me qq:1678887178
 
 <!---
 wh1367923682/wh1367923682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
